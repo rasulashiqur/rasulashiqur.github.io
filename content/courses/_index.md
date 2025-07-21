@@ -5,41 +5,48 @@ description: ""
 
 
 
- I got the opportunity to work as TA for some of the best instructors of CS department, both at Purdue University and Texas A&M University. I was TA for several undergraduate Computer Science classes where I have met and helped many wonderful students.
+ I started my career in academia as an adjunct lecturer at Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET) and then joined in a lecturer at Southeast University. After coming to Gatech, I worked as a graduate teaching assistant for Fall 24 semester. 
 <br>
 <br>
 
 ---
-## Purdue University
+## Georgia Institute of Technology
 
-* **CS 101: Digital Literacy** <br>
-    Sessions: Fall'21, Spring'22, Fall'22, Spring'23 (**Head TA**), Fall'23 (**Head TA**), Spring'24 <br>
-    Instructors: [Dr. George Adams](https://www.cs.purdue.edu/people/faculty/gba.html) & [Xiaojin Liu](https://www.cs.purdue.edu/people/faculty/liu218.html)
+* **ECE 2031: Digital Design Laboratory** <br>
+    Sessions: Fall 2024 as Head GTA <br>
+    Instructors: Kevin Johnson and Thomas R. Collins
 
 <br>
-
-* **CS 448: Introduction to Relational Database Management Systems** <br>
-    Session: Spring'21 <br>
-    Instructor: [Dr. Chris Clifton](https://www.cs.purdue.edu/homes/clifton/)
 
 
 ---
-## Texas A&M University
+## Bangladesh University of Engineering and Technology
 
-* **CSCE 445: Computers and New Media** <br>
-    Session: Fall'19 <br>
-    Instructor: [Dr. Richard Furuta](https://engineering.tamu.edu/cse/profiles/rfuruta.html)
-
-<br>
-
-* **CSCE 121: Introduction to Programming Design and Concepts** <br>
-    Session: Summer'19 <br>
-    Instructor: [Dr. J. Michael Moore](https://engineering.tamu.edu/cse/profiles/moore-j-michael.html)
+* **EEE 468: VLSI Circuits and Design Laboratory** <br>
+    Session: Nov 22 - May 23 <br>
 
 <br>
 
-* **CSCE 221: Data Structure and Algorithms** <br>
-    Sessions: Spring'19 & Fall'18 <br>
-    Instructor: [Dr. Teresa Leyk](https://engineering.tamu.edu/cse/profiles/tleyk.html)  &  [Dr. Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html)   
+* **EEE 316: Power Electornics Laboratory** <br>
+    Session: Nov 2022 - May 23 <br>
 
 <br>
+
+---
+## Southeast University, Bangladesh
+
+* **EEE 4503: VLSI I** <br>
+    Sessions: May 23 - June 24 <br>
+
+<br>
+
+* **EEE 4517: Nano Electronic Devices Laboratory** <br>
+    Session: May 23 - June 24 <br>
+
+<br>
+
+
+* **EEE 3301: Microprocessor and Interfacing** <br>
+    Session: May 23 - June 24 <br>
+<br>
+
