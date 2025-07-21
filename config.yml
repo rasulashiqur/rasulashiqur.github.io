@@ -1,5 +1,5 @@
-baseURL: "https://samiakabir.github.io/"
-title: Samia Kabir
+baseURL: "https://rasulashiqur.github.io/"
+title: Ashiqur Rasul
 paginate: 20
 theme: PaperMod
 
@@ -31,11 +31,11 @@ menu:
     #   weight: 5
 
 params:
-  description: "I'm a 4th year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,  working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/)."
-  author: Samia Kabir
+  description: "I'm a first year Ph.D. student in Electrical and Computer Engineering at Georgia Institute of Technology. My research interest lies at the intersection of ML algorithm and effcient ML hardware design. I am currently a part of the Low-power, Adaptive and Resilient Systems Lab (LARS) at Georgia Tech, working under the supervision of [Dr. Abhijit Chatterjee](https://ece.gatech.edu/directory/abhijit-chatterjee)."
+  author: Ashiqur Rasul
   # googleAnalyticsID: ""
   DateFormat: "January 2006"
-  defaultTheme: light
+  defaultTheme: dark
   hideFooter: true
   disableThemeToggle: true
   ShowShareButtons: false
@@ -55,30 +55,26 @@ params:
   math: true
   profileMode:
     enabled: true
-    title: Samia Kabir
-    subtitle: "Hello! This is Samia! I'm a 4th year Ph.D. student in Computer Science at Purdue University. My research interest is
-     in the intersection of Natural Language Processing, Information Visualization,
-     and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,
-     working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/).
+    title: Ashiqur Rasul
+    subtitle: "Hello! This is Ashiqur! I'm a 1st year Ph.D. student in Electrical and Computer Engineering at Georgia Institute of Technology. My research interest lies at the intersection of ML algorithm, efficient ML hardware design and neuromorphic computing in both analog and digital domain.
+     I am currently a part of Low-power, Adaptive and Resilient Systems Lab (LARS) at Georgia Tech,
+     working under the supervision of [Dr. Abhijit Chatterjee](https://ece.gatech.edu/directory/abhijit-chatterjee).
 
      <br><br>
-     My research projects at Purdue tackles the socio-technical aspects of Large Language Models (LLM). I  empirically
-     study the correctness and quality issues of LLMs, and build interactive tools that can aid end-users in analyzing and understanding
-     issues such as misinformation or stereotypes hidden in LLMs.
+     My research projects at Georgia Tech involves exploring the exciting areas of hardware-software codesign - input adaptive algorithm for efficient machine learning and analog or digital hardware design exploration for this purpose. 
+     We work in collaboration with prominent semiconductor companies such Intel, Texas Instruments and research organizations like Semiconductor Research Corporation (SRC).   
 
      <br><br>
-     Before coming to Purdue, I received my M.Sc. in Computer Science and Engineering from Texas A&M University in May 2020.
-     I completed my Bachelor's degree from Bangladesh University of Engineering and Technology (BUET). I grew up in the magical Dhaka city of Bangladesh.
-     I love reading fiction 📖, and I'm a huge plant lover! 🌵🌱
+     Before coming to Purdue, I completed my Bachelor's degree from Bangladesh University of Engineering and Technology (BUET) and went to Notre Dame College, Dhaka, Bangladesh.
+     When I am not in-front of the computer screen, I maybe playing soccer, roaming around or crossing off another item on my bucket list.
 
      <br> <br>
 
-     Thank you for visitng my webpage!
-     "
-    imageUrl: "/picture.jpeg"
+     I am looking for internship positions in hardware design for summer 26. I will be happy to connect with you!"
+    imageUrl: "/picture.jpg"
     imageWidth: 180
     imageHeight: 180
-    imageTitle: Samia Kabir
+    imageTitle: Ashiqur Rasul
     buttons:
       - name: Projects
         url: /projects/
@@ -91,15 +87,15 @@ params:
 
   socialIcons:
     - name: CV
-      url: "/cv.pdf"
+      url: "/resume.pdf"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/samia-kabir/"
     - name: Google Scholar
       url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
     - name: GitHub
-      url: "https://github.com/SamiaKabir"
+      url: "https://github.com/AshiqurRasul"
     - name: Email
-      url: "mailto:kabirs@purdue.edu"
+      url: "mailto:arasul6@gatech.edu"
 
   assets:
     disableHLJS: true
@@ -108,7 +104,7 @@ params:
     hiddenInList: true
     hiddenInSingle: true
   label:
-    text: "Samia Kabir"
+    text: "Ashiqur Rasul"
     icon: /favicon.ico
     iconHeight: 18
 
